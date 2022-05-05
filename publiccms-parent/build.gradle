@@ -55,7 +55,7 @@ subprojects{
         // https://mvnrepository.com/artifact/org.apache.lucene/lucene-analyzers-smartcn
         luceneVersion = "5.5.5"
         // http://mvnrepository.com/artifact/redis.clients/jedis
-        jedisVersion = "3.0.1"
+        jedisVersion = "4.2.2"
         // http://mvnrepository.com/artifact/org.quartz-scheduler/quartz
         quartzVersion = "2.3.0"
         // https://mvnrepository.com/artifact/com.zaxxer/HikariCP
